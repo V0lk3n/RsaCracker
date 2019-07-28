@@ -32,3 +32,8 @@ export PYTHONPATH=/full/path/of/libctf<br>
 # Run the script
 python rsa_part2.py<br>
 copy paste the value when asked<br>
+
+# Wanna try it?
+Go to the "test" directory<br>
+Use enc_channel.txt with the tool rsa_part1.py<br>
+Use auth_channel.txt with the tool rsa_part2.py<br>
